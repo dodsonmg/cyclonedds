@@ -15,8 +15,6 @@
 #include "dds/ddsrt/misc.h"
 #include "dds/ddsrt/attributes.h"
 
-#include <stdatomic.h>
-
 #if defined (__cplusplus)
 extern "C" {
 #endif
